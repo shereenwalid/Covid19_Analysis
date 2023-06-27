@@ -31,3 +31,6 @@ matplotlib
 
 # Acknowledgement
 - The Covid19 data is from https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+  
+# Blog post on medium to share my findings
+https://medium.com/@shereenwalid2003/the-hardest-hit-countries-by-covid-19-analysis-that-will-make-you-reflect-on-the-importance-of-cb12d4953da3
