@@ -8,9 +8,11 @@ By making the project open source, I hope to foster collaboration and drive new 
 My ultimate goal is to provide a valuable resource for anyone interested in addressing the impact of the COVID-19 pandemic.
 
 # Questions covered
-1/ What does your country and continent tell about your Covid recovery?
-2/ Can the death rate be determined by the Region?
-3/ Is your continent still infected?
+1/ What does your country tell about your Covid recovery?
+2/ What does every continent tell about recovery?
+3/ Is the death rate determined by to Region?
+4/ Are there countries free from covid?
+5/ What continents still affected?
 
 # Main Files
 Project1_covid_data_analysis: 
